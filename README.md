@@ -80,7 +80,3 @@ The bank's main focus have to be on middle-aged working professionals to generat
 └── README.md
 ```
 
-## 🚀 How to Run
-1. Clone the repo
-2. Open `credit_card.ipynb` in Jupyter/Colab and run cells sequentially (requires `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`)
-3. Load the cleaned CSV output (`credit_cleaned.csv`) into MySQL and run `sql_analysis.sql` for the business-question queries
