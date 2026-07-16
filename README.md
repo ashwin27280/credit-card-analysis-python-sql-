@@ -1,4 +1,4 @@
-# Credit-Card-Analysis
+# Credit-card-approval-analysis
 
 ## 📌 Problem Statement
 In the world of finance, predicting good clients for credit card approval is a game-changer for banks. It's the key to reducing credit risk, minimizing defaults, and ensuring a healthier credit card portfolio. This project analyzes a credit card applicant dataset to uncover the demographic, financial, and lifestyle factors that influence credit card acceptance — helping banks make smarter, data-driven approval decisions.
